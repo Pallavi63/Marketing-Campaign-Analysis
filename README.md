@@ -6,7 +6,7 @@ End-to-end data analytics project analyzing 200,000 marketing campaign records a
 
 Tools Used & Tool Purpose
 ---
-Python (Pandas, NumPy)	- Data cleaning & preparation
+Python (Pandas, NumPy)	- Data cleaning & preparation <br>
 SQL (SQLite) -	Business queries & metric calculation
 Microsoft Excel -	Pivot tables & summary charts
 Power BI -	Interactive dashboard
